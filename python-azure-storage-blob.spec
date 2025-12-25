@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/azure-storage-blob/
 License:	MIT License
 Group:		Development/Python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
