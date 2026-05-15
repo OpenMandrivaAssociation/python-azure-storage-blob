@@ -2,7 +2,7 @@
 %define oname azure_storage_blob
 
 Name:		python-azure-storage-blob
-Version:	12.28.0
+Version:	12.29.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/a/%{module}/%{oname}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Microsoft Azure Blob Storage Client Library for Python
